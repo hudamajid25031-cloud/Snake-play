@@ -1,2 +1,5 @@
-# Snake-play
-This project marks my very first milestone in programming and game development using Python. It is a custom-designed version of the classic Snake game, built from scratch using Object-Oriented Programming (OOP) princi
+What is this project and how did I build it?
+This project is a custom version of the classic Snake Game that we all know and love, built from scratch using Python. The cool thing about it isn't just making a game; it is built using Object-Oriented Programming (OOP). This means I broke the game down into smart, independent parts: one part controls the snake and its movement, another handles the food, a third tracks the score, and a final part connects everything together to run the game smoothly.
+What I used to build it:
+I used the Turtle graphics library to draw the game and customize the colors, setting up a vibrant pink background, a white snake made of circles, and bright red food. To keep the game exciting and unpredictable, I used the Random library so that the food pops up in a completely random spot every time the snake eats it. I also used the Time library to control the snake's speed so it moves smoothly without lagging. Finally, I coded the game to read the keyboard arrow keys instantly, allowing you to steer the snake, hunt for food, and chase a high score without crashing into the walls or your own tail!
+
